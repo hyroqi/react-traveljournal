@@ -1,5 +1,7 @@
 # Hiro's Travel Journal
 
+![Image of the website](https://github.com/hyroqi/react-traveljournal/blob/main/screenshots/TravelJournalScreenshot.png?raw=true)
+
 Created using create-react-app
 
 ## Getting Started with Create React App
